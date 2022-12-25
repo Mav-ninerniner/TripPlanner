@@ -13,6 +13,7 @@ of the trip.
 6) Pdf of the trip itinerary can be generated
 
 ## How to run
+First, start the redis server
 We have 2 backend ports that run on local 3001, 3002 and 1 forontend port
 Starting the client:
 ```
